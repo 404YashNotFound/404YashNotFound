@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yash Chauhan !
-**B.Com Student | Python Developer | Tech Enthusiast**
+**B.Com Student | Python Developer | Tech Enthusiast | Data Analyst |**
 
 
 🚀 **Projects:**
