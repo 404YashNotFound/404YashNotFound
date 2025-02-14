@@ -1,3 +1,5 @@
+![Your Banner](banner/2.png)
+
 👋 Hi, I'm Yash!
 
 🔍 Data Analyst | Business Intelligence Enthusiast | Problem Solver
