@@ -1,4 +1,5 @@
 👋 Hi, I'm Yash!
+
 🔍 Data Analyst | Business Intelligence Enthusiast | Problem Solver
 
 📊 Passionate about turning raw data into actionable insights to drive business decisions. With a experiance of two year in **Research Analysis** for AdTech Industry, I specialize in uncovering trends, market analysis, Ads Optimization and business performance optimizing.
