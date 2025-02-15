@@ -1,4 +1,4 @@
-![Your Banner](banner/Blue_Green_Geometry.gif)
+![Your Banner](banner/Blue_Green_Geometric.gif)
 
 👋 Hi, I'm Yash!
 
